@@ -8,19 +8,19 @@
     "net6.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\HAIKAL\\.nuget\\packages\\": {}
+    "C:\\Users\\LENOVO\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\TugasAkhir\\test\\Tugas GUI\\Tugas GUI\\Tugas GUI.csproj",
+      "projectUniqueName": "D:\\KULIAH\\SEM 3\\PBO\\test\\Tugas GUI\\Tugas GUI\\Tugas GUI.csproj",
       "projectName": "Tugas GUI",
-      "projectPath": "D:\\TugasAkhir\\test\\Tugas GUI\\Tugas GUI\\Tugas GUI.csproj",
-      "packagesPath": "C:\\Users\\HAIKAL\\.nuget\\packages\\",
-      "outputPath": "D:\\TugasAkhir\\test\\Tugas GUI\\Tugas GUI\\obj\\",
+      "projectPath": "D:\\KULIAH\\SEM 3\\PBO\\test\\Tugas GUI\\Tugas GUI\\Tugas GUI.csproj",
+      "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
+      "outputPath": "D:\\KULIAH\\SEM 3\\PBO\\test\\Tugas GUI\\Tugas GUI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\HAIKAL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
